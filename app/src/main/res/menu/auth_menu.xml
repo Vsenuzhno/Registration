@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/authorized">
+
+        <item
+            android:id="@+id/singOut"
+            android:title="@string/singout">
+
+        </item>
+
+    </group>
+
+    <group android:id="@+id/unAuthorized">
+
+        <item
+            android:id="@+id/singIn"
+            android:title="@string/singIn">
+
+        </item>
+
+        <item
+            android:id="@+id/singUp"
+            android:title="@string/singUp">
+
+        </item>
+
+
+    </group>
+
+</menu>

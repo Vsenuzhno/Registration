@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="hello">Привет, мир!</string>
+    <string name="description_post_author_avatar">Аватар автора поста</string>
+    <string name="description_post_menu">Меню поста</string>
+    <string name="description_post_like">Лайк</string>
+    <string name="description_post_share">Поделиться</string>
+    <string name="description_post_save">Сохранить</string>
+    <string name="menu_remove">Удалить</string>
+    <string name="post_text">Текст поста</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="error_empty_content">Контент не может быть пустым</string>
+    <string name="chooser_share_post">Поделиться постом</string>
+    <string name="add_post">Добавить пост</string>
+    <string name="retry_loading">Повторить попытку</string>
+    <string name="empty_posts">Постов нет. Если вы создадите новый пост, он появится здесь</string>
+    <string name="error_loading">Что-то пошло не так. Попробуйте позже</string>
+    <string name="save">Сохранить</string>
+    <string name="google_play_unavailable">Google API недоступен</string>
+    <string name="notification_user_liked">Пользователю %1$s понравился пост %2$s</string>
+    <string name="channel_remote_name">Уведомления с сервера</string>
+    <string name="channel_remote_description">Уведомления с удалённого сервера</string>
+    <string name="networkEerror">Проверьте подключение к сети и попробуйте загрузить снова.</string>
+    <string name="Error">Ошибка</string>
+    <string name="new_posts">Новые посты</string>
+    <string name="description_take_photo">Сделать фото</string>
+    <string name="description_photo">Фото</string>
+    <string name="remove">Удалить</string>
+    <string name="description_select_photo">Выбрать фото</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="hello_blank_fragment" translatable="false">Привет, пустой фрагмент</string>
+    <string name="prompt_email" translatable="false">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in" translatable="false">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short" translatable="false">Войти</string>
+    <string name="welcome" translatable="false">"Добро пожаловать!"</string>
+    <string name="invalid_username" translatable="false">Неправильное имя пользователя</string>
+    <string name="invalid_password" translatable="false">Пароль должен содержать более 5 символов</string>
+    <string name="login_failed" translatable="false">"Вход не удался"</string>
+    <string name="singout">Выйти</string>
+    <string name="singIn">Войти</string>
+    <string name="singUp">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="Enter_name">Введите имя пользователя и пароль</string>
+    <string name="name">Имя</string>
+    <string name="password_verification">Подтверждение пароля</string>
+    <string name="cancel">Отмена</string>
+    <string name="only_for_registered_users">Только для зарегистрированных пользователей</string>
+    <string name="are_you_suare">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="passwords_dont_match">Пароли не совпадают</string>
+</resources>
